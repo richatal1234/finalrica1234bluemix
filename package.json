@@ -1,0 +1,14 @@
+{
+  "name": "sb-admin",
+  "version": "0.0.0",
+  "dependencies": {
+    "express":"*"
+  },
+  "engines": {
+    "node": "*",
+    "npm":"*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
